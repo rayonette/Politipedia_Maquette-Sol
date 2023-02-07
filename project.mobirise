@@ -1,13 +1,13 @@
 {
   "settings": {
     "name": "Politipedia_maquette_sol",
-    "currentPage": "index.html",
+    "currentPage": "Mon-profil-contributeur.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
       "styling": {
-        "primaryColor": "#ff6000",
-        "secondaryColor": "#ff6000",
+        "primaryColor": "#df0144",
+        "secondaryColor": "#df0144",
         "successColor": "#2e08c6",
         "infoColor": "#47b5ed",
         "warningColor": "#FFE161",
@@ -30,13 +30,13 @@
         "isScrollToTopButton": true
       },
       "additionalSetColors": [
-        "#2e08c6",
-        "#3a3a4d",
-        "#545468",
-        "#ff6000",
-        "#d4d4ec",
-        "#44446f",
-        "#444462"
+        "#df014c",
+        "#df0144",
+        "#df013b",
+        "#df0154",
+        "#00bea1",
+        "#00d4b4",
+        "#2e08c6"
       ]
     },
     "path": "@PROJECT_PATH@",
